@@ -1,0 +1,5 @@
+ID Cliente,Nombre,Direccion,Telefono,Email
+1,Jorge,Dirección 1,123456789,jorge@example.com
+2,Andres,Dirección 2,987654321,andres@example.com
+3,Luis,Dirección 3,456789123,luis@example.com
+4,Ramon,Dirección 4,789123456,ramon@example.com
